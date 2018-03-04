@@ -1,3 +1,10 @@
+# WARNING
+ don't forget to use :
+ 
+ npm install 
+
+to run the server side
+
 # TOP CHEF
 
 > Eat well and cheaper than usually
